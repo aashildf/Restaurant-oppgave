@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+.footer {
+  width: 100%;              
+  margin: 0;                
+  padding: 20px;            
+  background-color: #493927; 
+  color: white;
+  position: relative;       
+  left: 0;
+}
+
+.footer-wrapper {
+  width: 100vw; 
+}
+
