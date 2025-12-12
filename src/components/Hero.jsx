@@ -3,7 +3,7 @@ export default function Hero() {
     <div className="flex flex-col items-center justify-center text-center mt-12">
       <div className=" mt-0 w-140 h-50 ">
         <img
-          src="public/J-logon.png"
+          src="./public/J-logon.png"
           alt="Signaturrett"
           className="object-cover w-full h-full"
         />
