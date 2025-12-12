@@ -4,9 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://vite.dev/config/
 export default defineConfig({
-  plugins: [
-    react(),
-    tailwindcss(), 
-  ],
-   base: "/react_css/",
+  plugins: [react(), tailwindcss()],
+  base: "/react_css/",
+  homepage: "https://aashildf.github.io/react_css/",
 });

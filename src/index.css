@@ -6,7 +6,7 @@
 
 body {
   margin: 0;
-  background-image: url("./public/res7.svg");
+  background-image: url("/res7.svg");
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;

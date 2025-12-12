@@ -21,7 +21,7 @@ export default function Hero() {
 
       <div className="mt-12 w-40 h-40 sm:w-56 sm:h-56 rounded-full overflow-hidden shadow-2xl ">
         <img
-          src="./public/mat1.avif"
+          src="/mat1.avif"
           alt="Signaturrett"
           className="object-cover w-full h-full "
         />
