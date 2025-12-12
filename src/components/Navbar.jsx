@@ -36,19 +36,4 @@ export default function Navbar() {
 
 
 
-// import styles from "./Navbar.module.css";
 
-// export default function Navbar() {
-//   return (
-//     <nav className={styles.navbar}>
-//       <div className={styles.logo}>
-//         <img src="./logo.svg" alt="restaurant logo" />
-//       </div>
-//       <div className={styles.links}>
-//         <a href="#">Meny</a>
-//         <a href="#">Reservasjon</a>
-//         <a href="#">kontakt</a>
-//       </div>
-//     </nav>
-//   );
-// }
