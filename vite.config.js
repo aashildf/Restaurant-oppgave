@@ -6,5 +6,5 @@ import tailwindcss from "@tailwindcss/vite";
 export default defineConfig({
   plugins: [react(), tailwindcss()],
   base: "/react_css/",
-  homepage: "https://aashildf.github.io/react_css/",
+  homepage: "https://aashildf.github.io/Restaurant-oppgave/",
 });
