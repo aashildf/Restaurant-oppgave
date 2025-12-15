@@ -7,7 +7,7 @@ export default function Navbar() {
       <div className="flex items-center p-4">
         <div className="ml-4">
           {/* hamburger/menu-icon */}
-          <button className="text-white hover:text-[#D1793E] transition duration-200 cursor-pointer">
+          <button className="text-white hover:text-teal-700 transition duration-200 cursor-pointer">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               className="w-12 h-12"
